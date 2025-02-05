@@ -148,6 +148,4 @@ inventory-management-dashboard/
 - **Prisma** for simplifying database interactions.  
 - **Material UI** for robust data grid components.  
 
----
 
-This README follows best practices and includes detailed instructions for both technical and non-technical users.

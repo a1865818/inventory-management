@@ -11,7 +11,7 @@ The application integrates seamlessly with **AWS Services**, providing cloud-bas
 ## **Features**  
 - **Dynamic Inventory Dashboard**: Real-time visualization of inventory data using Material UI Data Grid.  
 - **State Management**: Utilizes **Redux Toolkit** and **Redux Toolkit Query** for streamlined data fetching and state handling.  
-- **Cloud Integration**: Leverages AWS services such as **RDS**, **S3**, **Amplify**, and **API Gateway** for cloud-based solutions.  
+- **Cloud Integration**: Leverages AWS services such as **RDS**, **S3**, **Amplify**, **EC2**, and **API Gateway** for cloud-based solutions.  
 - **Responsive Design**: Built with **Tailwind CSS** for a seamless and modern UI across devices.  
 - **Scalable Backend**: Developed using **Node.js** and **Prisma ORM** to handle complex database interactions.  
 - **Beginner-Friendly AWS Guide**: Includes setup instructions, cost management tips, and networking basics for AWS services.  

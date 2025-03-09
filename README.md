@@ -32,7 +32,7 @@ The application integrates seamlessly with **AWS Services**, providing cloud-bas
 - **Prisma ORM**  
 
 ### **Cloud Services**  
-- **AWS EC2**: For computing power.  
+- **AWS EC2**: For computing power and backend hosting.  
 - **AWS RDS**: For relational database management.  
 - **AWS API Gateway**: To create robust and scalable APIs.  
 - **AWS Amplify**: For frontend deployment.  
